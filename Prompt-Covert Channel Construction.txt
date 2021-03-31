@@ -1,0 +1,8 @@
+Covert Timing Channels
+
+Given a source principal that is purportedly isolated from a destination principal, a covert timing channel is a means by which the source principal conveys information to the destination principal by using mechanisms in ways not intended for performing communications:
+-The source principal signals a value by controlling the timing of one or more events.
+-The destination principal detects a value by measuring the timing of one or more events.
+Note, the events used by the source principal to signal a value might be different from the events used by the destination to detect that value.
+
+http://www.cs.cornell.edu/courses/cs5430/2020fa/proj002.covert.html
